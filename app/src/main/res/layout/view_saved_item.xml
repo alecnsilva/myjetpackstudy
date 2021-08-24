@@ -9,11 +9,11 @@
 
         <variable
             name="viewModel"
-            type="br.com.jetpack.viewmodel.ProductListViewModel" />
+            type="myjetpack.viewmodel.ProductListViewModel" />
 
         <variable
             name="productModel"
-            type="br.com.jetpack.data.local.ProductModel" />
+            type="myjetpack.data.local.ProductModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

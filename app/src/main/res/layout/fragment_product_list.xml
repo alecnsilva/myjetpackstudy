@@ -8,7 +8,7 @@
     <data>
         <variable
             name="viewModel"
-            type="br.com.jetpack.viewmodel.ProductListViewModel" />
+            type="myjetpack.viewmodel.ProductListViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
