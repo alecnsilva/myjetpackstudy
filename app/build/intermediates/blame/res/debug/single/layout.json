@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/view_saved_item.xml",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/layout/view_saved_item.xml"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_product_list.xml",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/layout/fragment_product_list.xml"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_detail.xml",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/view_item.xml",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/layout/view_item.xml"
+    }
+]

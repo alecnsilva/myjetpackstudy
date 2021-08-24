@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable_rectangle_background.xml.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/drawable/rectangle_background.xml"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable_img_soda1.jpg.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/drawable/img_soda1.jpg"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_plus.png.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/generated/res/pngs/debug/drawable-mdpi/ic_plus.png"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_less.xml.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_less.xml"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_plus.png.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_plus.png"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_less.png.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_less.png"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_less.png.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_less.png"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable_img_beer1.jpg.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/drawable/img_beer1.jpg"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_less.png.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/generated/res/pngs/debug/drawable-hdpi/ic_less.png"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/layout_fragment_product_list.xml.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/layout/fragment_product_list.xml"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/layout_view_item_amount_button.xml.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/layout/view_item_amount_button.xml"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/layout_fragment_detail.xml.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_less.png.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_less.png"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/layout_view_saved_item.xml.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/layout/view_saved_item.xml"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_plus.xml.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_plus.xml"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_less.png.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/generated/res/pngs/debug/drawable-ldpi/ic_less.png"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable_rectangle_buttom_background_disabled.xml.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/drawable/rectangle_buttom_background_disabled.xml"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable_ic_check.xml.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/drawable/ic_check.xml"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable_img_soda2.jpg.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/drawable/img_soda2.jpg"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/layout_view_item.xml.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/layout/view_item.xml"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_plus.png.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/generated/res/pngs/debug/drawable-ldpi/ic_plus.png"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable_rectangle_buttom_background.xml.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/drawable/rectangle_buttom_background.xml"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable_oval_background.xml.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/drawable/oval_background.xml"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable_background_button.xml.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/drawable/background_button.xml"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/navigation_nav_graph_main.xml.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/navigation/nav_graph_main.xml"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_plus.png.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_plus.png"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_less.png.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/generated/res/pngs/debug/drawable-mdpi/ic_less.png"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable_img_beer2.jpg.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/drawable/img_beer2.jpg"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_plus.png.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_plus.png"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_plus.png.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/generated/res/pngs/debug/drawable-hdpi/ic_plus.png"
+    },
+    {
+        "merged": "/home/alecns/Estudos/Android/MyJetPackStudy/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

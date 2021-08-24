@@ -1,0 +1,72 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="br.com.codechallenge"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/AndroidManifest.xml:5:5-66
+11-->/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/AndroidManifest.xml:7:5-24:19
+14        android:name="br.com.jetpack.app.MainApplication"
+14-->/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/AndroidManifest.xml:8:9-58
+15        android:allowBackup="true"
+15-->/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.3.1] /home/alecns/.gradle/caches/transforms-2/files-2.1/0b954cf8f40e9de107678d97b8562671/core-1.3.1/AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/AndroidManifest.xml:10:9-43
+19        android:label="@string/app_name"
+19-->/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/AndroidManifest.xml:11:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/AndroidManifest.xml:12:9-54
+21        android:supportsRtl="true"
+21-->/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/AndroidManifest.xml:13:9-35
+22        android:theme="@style/AppTheme" >
+22-->/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/AndroidManifest.xml:14:9-40
+23        <activity android:name="br.com.jetpack.view.ProductActivity" >
+23-->/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/AndroidManifest.xml:16:9-22:20
+23-->/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/AndroidManifest.xml:17:13-63
+24            <intent-filter>
+24-->/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/AndroidManifest.xml:18:13-21:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/AndroidManifest.xml:19:17-68
+25-->/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/AndroidManifest.xml:19:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/AndroidManifest.xml:20:17-77
+27-->/home/alecns/Estudos/Android/MyJetPackStudy/app/src/main/AndroidManifest.xml:20:27-74
+28            </intent-filter>
+29        </activity>
+30
+31        <service
+31-->[androidx.room:room-runtime:2.3.0] /home/alecns/.gradle/caches/transforms-2/files-2.1/a827764cd7268f582933625d5d69b1ba/room-runtime-2.3.0/AndroidManifest.xml:25:9-28:40
+32            android:name="androidx.room.MultiInstanceInvalidationService"
+32-->[androidx.room:room-runtime:2.3.0] /home/alecns/.gradle/caches/transforms-2/files-2.1/a827764cd7268f582933625d5d69b1ba/room-runtime-2.3.0/AndroidManifest.xml:26:13-74
+33            android:directBootAware="true"
+33-->[androidx.room:room-runtime:2.3.0] /home/alecns/.gradle/caches/transforms-2/files-2.1/a827764cd7268f582933625d5d69b1ba/room-runtime-2.3.0/AndroidManifest.xml:27:13-43
+34            android:exported="false" />
+34-->[androidx.room:room-runtime:2.3.0] /home/alecns/.gradle/caches/transforms-2/files-2.1/a827764cd7268f582933625d5d69b1ba/room-runtime-2.3.0/AndroidManifest.xml:28:13-37
+35
+36        <provider
+36-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/alecns/.gradle/caches/transforms-2/files-2.1/aa07b67cac62885c53fc1013c8607617/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+37            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+37-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/alecns/.gradle/caches/transforms-2/files-2.1/aa07b67cac62885c53fc1013c8607617/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+38            android:authorities="br.com.codechallenge.lifecycle-process"
+38-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/alecns/.gradle/caches/transforms-2/files-2.1/aa07b67cac62885c53fc1013c8607617/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+39            android:exported="false"
+39-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/alecns/.gradle/caches/transforms-2/files-2.1/aa07b67cac62885c53fc1013c8607617/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+40            android:multiprocess="true" />
+40-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/alecns/.gradle/caches/transforms-2/files-2.1/aa07b67cac62885c53fc1013c8607617/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+41    </application>
+42
+43</manifest>
